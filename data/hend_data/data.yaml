@@ -1,0 +1,11 @@
+train: ../train/images
+
+nc: 1
+names: ['person']
+
+roboflow:
+  workspace: hend-1umfb
+  project: aerial-pool-owweo
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/hend-1umfb/aerial-pool-owweo/dataset/2
